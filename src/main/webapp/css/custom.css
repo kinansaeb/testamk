@@ -1,0 +1,60 @@
+/* nav { */
+/* 	display: flex; */
+/* } */
+
+/* nav * { */
+/* 	margin-right: 5px; */
+/* } */
+
+
+/* .nobullet li { 
+	display: block;
+	list-style: none;	*/
+/* } */
+.nobullet {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+nav {
+	border-bottom: 2px solid #e3f9ff;
+}
+
+#servicenav {
+	display: flex;
+}
+
+#servicenav li {
+	white-space: normal;
+}
+
+#settingsicon {
+	margin-right: 0px;
+    width: 30px;
+    height: 30px;
+}
+
+.mr-5 {
+	margin-right: 5px;
+}
+.mt-15 {
+	margin-top: 15px;
+}
+
+.required {
+	color: red;
+}
+
+.linkcursor {
+	cursor: pointer;
+}
+
+.nopadding {
+	padding: 0px;	
+}
+
+.position-sticky-bottom {
+	position: sticky;
+	bottom: 0;
+}

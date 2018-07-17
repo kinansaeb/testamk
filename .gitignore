@@ -1,0 +1,10 @@
+/bin/
+
+/target/
+/.settings/
+/build/
+/test.lck
+/test.log
+/test.properties
+/test.script
+/lib/
